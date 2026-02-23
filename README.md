@@ -2,8 +2,6 @@
 
 A modern, responsive web design concept for a **digital agency** / creative studio, built entirely in Figma.
 
-Showcasing clean typography, smooth animations (conceptual), dark/light mode potential, interactive elements, and a strong focus on services, portfolio, and client trust.
-
 ## 🎨 Preview
 
 <!-- You can later add live Figma embed or screenshots here -->
@@ -15,8 +13,6 @@ Showcasing clean typography, smooth animations (conceptual), dark/light mode pot
 ![Home Page](screenshots/home.png)  
 ![Body Section](screenshots/body.png)  
 ![Testimonial and Footer Grid](screenshots/Testimonial_footer.png)
-
-(Upload 3–6 high-quality screenshots to a `/screenshots` folder and link them like above)
 
 ## ✨ Key Features
 
@@ -52,7 +48,7 @@ Showcasing clean typography, smooth animations (conceptual), dark/light mode pot
 
 MIT License – free to use for personal & commercial projects (just don't sell the file as-is).
 
-Made with ❤️ by Abhijeetkumar
+Made with ❤️ by Abhijeet Kumar Pandey (Abhijeetx777x)
 
 ---
 
