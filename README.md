@@ -13,8 +13,8 @@ Showcasing clean typography, smooth animations (conceptual), dark/light mode pot
 
 <!-- Option 2: Or embed screenshots (highly recommended) -->
 ![Home Page](screenshots/home.png)  
-![Services Section](screenshots/services.png)  
-![Portfolio Grid](screenshots/portfolio.png)
+![Body Section](screenshots/body.png)  
+![Testimonial and Footer Grid](screenshots/Testimonial_footer.png)
 
 (Upload 3–6 high-quality screenshots to a `/screenshots` folder and link them like above)
 
